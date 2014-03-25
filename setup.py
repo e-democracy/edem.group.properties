@@ -33,7 +33,7 @@ setup(name='edem.group.properties',
     zip_safe=False,
     install_requires=[
         'setuptools',
-        'gs.skin.ogn.edem',
+        'edem.skin',
         'gs.group.properties',
         # -*- Extra requirements: -*-
     ],

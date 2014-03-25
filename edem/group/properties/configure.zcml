@@ -8,7 +8,7 @@
     for="Products.XWFChat.interfaces.IGSGroupFolder" 
     name="changeproperties.html" 
     class=".change.EDemChangePropertiesForm" 
-    layer="gs.skin.ogn.edem.interfaces.IEDemLayer" 
+    layer="edem.skin.interfaces.IEDemLayer" 
     permission="zope2.ManageProperties" />
 </configure>
 
