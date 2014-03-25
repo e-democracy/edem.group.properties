@@ -1,7 +1,7 @@
 # coding=utf-8
 from __future__ import absolute_import, unicode_literals
 from gs.group.privacy.visibility import GroupVisibility
-from gs.skin.ogn.edem.interfaces import IEDemGroupProperties
+from edem.skin.interfaces import IEDemGroupProperties
 from gs.group.properties.change import ChangePropertiesForm
 from gs.content.form.utils import enforce_schema
 from gs.content.form.disabledtextwidget import disabled_text_widget
