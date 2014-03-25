@@ -5,7 +5,7 @@
 
     
   <browser:page 
-    for="Products.XWFChat.interfaces.IGSGroupFolder" 
+    for="gs.group.base.interfaces.IGSGroupMarker" 
     name="changeproperties.html" 
     class=".change.EDemChangePropertiesForm" 
     layer="edem.skin.interfaces.IEDemLayer" 
