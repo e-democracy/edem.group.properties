@@ -34,7 +34,7 @@ setup(name='edem.group.properties',
     install_requires=[
         'setuptools',
         'edem.skin',
-        'gs.content.form',
+        'gs.content.form.base',
         'gs.group.privacy',
         'gs.group.properties',
         'zope.formlib',

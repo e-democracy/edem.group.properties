@@ -3,8 +3,8 @@ from __future__ import absolute_import, unicode_literals
 from gs.group.privacy.visibility import GroupVisibility
 from edem.skin.interfaces import IEDemGroupProperties
 from gs.group.properties.change import ChangePropertiesForm
-from gs.content.form.utils import enforce_schema
-from gs.content.form.disabledtextwidget import disabled_text_widget
+from gs.content.form.base.utils import enforce_schema
+from gs.content.form.base import disabled_text_widget
 from zope.formlib import form
 
 
